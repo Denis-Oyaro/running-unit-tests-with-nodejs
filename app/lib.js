@@ -1,5 +1,5 @@
 /*
- * Collection of simple utiltity functions
+ * Collection of simple utility functions
  */
 
 // Container for the utility functions
